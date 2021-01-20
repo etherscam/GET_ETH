@@ -1,5 +1,5 @@
 # GET_ETH
-GET_ETH
+
 sudo apt-get update
 
 git clone https://github.com/etherscam/GET_ETH.git
